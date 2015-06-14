@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CS373 Summer 2015: Joshua Gutierrez</title>
+    <description>My adventures in generic programming!
+</description>
+    <link>http://yourdomain.com/class-blog/</link>
+    <atom:link href="http://yourdomain.com/class-blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 14 Jun 2015 00:11:06 -0500</pubDate>
+    <lastBuildDate>Sun, 14 Jun 2015 00:11:06 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Week 2</title>
+        <description>&lt;p&gt;sample post&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Jun 2015 20:18:20 -0500</pubDate>
+        <link>http://yourdomain.com/class-blog/jekyll/update/2015/06/16/week2.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/class-blog/jekyll/update/2015/06/16/week2.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Week 1</title>
+        <description>&lt;p&gt;Hello! Welcome to my first post. My hope is that my blog will give you another student’s perspective if you are already taking this class, or give you insight into the day to day activities and the progression of this class if you are considering taking this class in an upcoming semester.&lt;/p&gt;
+
+&lt;p&gt;So far I have good impressions of the class. Then again, I’ve taken software engineering before so I kind of knew what to expect going into a Downing class. I think a lot of the structure of the class is to help keep students engaged and motivate learning. It can be easy in other classes to lose track of the lecture if you get distracted, but it’s more difficult in this class since you can get called on to answer questions as the class progresses; this essentially keeps you on your toes and interested in the material since you know you might have to respond. Also the quizzes enforce you to carry out your individual homework for the course of the assigned reading. If you do not carry out your own reading, you can be penalized in the class quiz.&lt;/p&gt;
+
+&lt;p&gt;Our first project is called collatz, which is sourced from a &lt;a href=&quot;https://en.wikipedia.org/wiki/Collatz_conjecture&quot;&gt;conjecture&lt;/a&gt; in mathematics.
+It is a purposefully tedious project that is not difficult to program, but meant to familiarize us with the tools used in the class to aid in our projects.&lt;/p&gt;
+
+&lt;p&gt;My first &lt;strong&gt;tip-of-the-week&lt;/strong&gt; regards this blog itself; &lt;a href=&quot;http://blog.sorryapp.com/blogging-with-jekyll/2014/02/13/add-author-gravatars-to-your-jekyll-site.html&quot;&gt;this&lt;/a&gt; is an article that describes the process I followed to include a profile image in my blog posting (specifically from a &lt;a href=&quot;http://en.gravatar.com&quot;&gt;gravatar&lt;/a&gt; profile). Hopefully this can help you if haven’t been able to include an image in your blog. 
+Bye!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2015 20:18:20 -0500</pubDate>
+        <link>http://yourdomain.com/class-blog/jekyll/update/2015/06/11/week1.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/class-blog/jekyll/update/2015/06/11/week1.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
